@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Kahfi 👋  <br><br>💻 I’m passionate about programming and technology.  <br>🌱 Currently learning Java, React, and Linux.  <br>🔐 Interested in Cybersecurity and Ethical Hacking.  <br>🚀 I like building projects to improve my coding skills.  <br><br>📫 Reach me: mkafi9393@gmail.com
+Hi, I'm Kahfi 👋  <br><br>💻 I’m passionate about programming and technology.  <br>🌱 Currently learning Python, Java, React, and Linux.  <br>🚀 I like building projects to improve my coding skills.  <br><br>📫 Reach me: mkafi9393@gmail.com
 
 
 ## 🌐 Socials:
